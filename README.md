@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **I am a procrastinator**
 
-- [![An image of @shekhu04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shekhu04)](https://holopin.io/@shekhu04)
+-   HacktoberFest 2023 -
+-  [![An image of @shekhu04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shekhu04)](https://holopin.io/@shekhu04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
