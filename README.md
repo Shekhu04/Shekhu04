@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhu04&label=Profile%20views&color=0e75b6&style=flat" alt="shekhu04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhu04" alt="shekhu04" /></a> </p>
-
 - 🔭 I’m currently working on **Data Structures and Algorithm**
 
 - 🌱 I’m currently learning **ReactJs**
@@ -31,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shekhu04&show_icons=true&locale=en" alt="shekhu04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shekhu04&" alt="shekhu04" /></p>
+
 
