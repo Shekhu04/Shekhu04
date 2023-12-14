@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shikhar Gupta</h1>
 <h3 align="center">A young and hardworking developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhu04&label=Profile%20views&color=0e75b6&style=flat" alt="shekhu04" /> </p>
 
@@ -10,6 +11,9 @@
 - 📫 How to reach me **gshikhar04@gmail.com**
 
 - ⚡ Fun fact **I like to be consistent.**
+
+-  HacktoberFest 2023 -
+-  [![An image of @shekhu04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shekhu04)](https://holopin.io/@shekhu04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
